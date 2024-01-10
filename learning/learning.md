@@ -5,7 +5,7 @@
 
 # Basic concepts before starting
 
-Please, go through the main concepts. These will be helpful to understand the bigger picture. Don't get frustrated if you don't catch them right away. It will make more sense when you start working hands-on the project. I promise. 
+Please, go through the main concepts. These will be helpful to understand the bigger picture. Don't get frustrated if you don't catch them right away. It will make more sense once you start working hands-on on the project. I promise. 
 
 ## npm
 https://careerfoundry.com/en/blog/web-development/what-is-npm/
