@@ -1,3 +1,6 @@
+# Pre-requisits before running the tests
+1. Install Node + npm. Download the installer for your OS from https://nodejs.org/en/download/
+
 # Installation
 
 1. Fork your own copy of the repository (look for the `Fork` button at the top-right of the page)
