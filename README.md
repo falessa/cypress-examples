@@ -1,9 +1,9 @@
-# Pre-requisits before running the tests
+# Pre-requisites before running the tests
 1. Install Node + npm. Download the installer for your OS from https://nodejs.org/en/download/
 
 # Installation
 
-1. Fork your own copy of the repository (look for the `Fork` button at the top-right of the [repo page](https://github.com/falessa/cypress-examples)
+1. Fork your own copy of the repository (look for the `Fork` button at the top-right of the [repo page](https://github.com/falessa/cypress-examples))
 2. Clone your fork from your account: `git clone git@github.com:your-account/cypress-examples.git`
 4. Install the dependencies by running `npm install` in the project's root directory
 
