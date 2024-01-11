@@ -1,7 +1,7 @@
-# The basic stuff you need to know to start this thrilling learnig journey!
+# The basic stuff you need to know to start this thrilling learning journey!
 
 - This is an npm project written in JavaScript
-- It cointains a basic configuration generated automatically when added the Cypress dependency
+- It contains a basic configuration generated automatically when the Cypress dependency was added
 
 # Basic concepts before starting
 
@@ -14,4 +14,4 @@ Video if you prefer: https://www.youtube.com/watch?si=pIGBe0JHE4oKXh_-&t=52&v=P3
 
 ## Cypress
 
-What is Cypress - In a nutshell: https://www.youtube.com/watch?si=pIGBe0JHE4oKXh_-&t=52&v=P3aKRdUyr0s&feature=youtu.be&ab_channel=CoderCoder
+What is Cypress - In a nutshell: https://docs.cypress.io/guides/overview/why-cypress#In-a-nutshell
