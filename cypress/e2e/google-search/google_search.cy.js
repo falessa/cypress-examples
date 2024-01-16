@@ -21,4 +21,18 @@ describe('Google search', () => {
         cy.findByRole('search').submit();
         cy.get('#search').should('not.be.visible');
     });
+
+    it('displays maps search results after performing a sucessful search', () => {
+        cy.findByTitle('Buscar').type('best pizza in Barcelona');
+        cy.findByRole('search').submit();
+        cy.get('#search').should('be.visible');
+        cy.contains('Maps').click();
+        cy.get('#search').should('be.visible');
+    });
+
+    //it('cancel the search');
+
+    //it('change the search');
+
+
 })

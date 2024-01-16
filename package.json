@@ -4,7 +4,8 @@
   "description": "Cypress tests examples for learining purposes",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:run": "cypress run"
   },
   "author": "Flavia Gramajo",
   "license": "ISC",
